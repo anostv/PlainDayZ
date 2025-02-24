@@ -1,1 +1,1 @@
-[PlainDayZ Info](https://github.com/anostv/PlainDayZ/wiki)
+# [PlainDayZ Info](https://github.com/anostv/PlainDayZ/wiki)
